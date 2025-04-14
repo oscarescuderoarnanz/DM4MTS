@@ -61,10 +61,10 @@ model_names = [
     "LSTM",
     "GRU",
     "Transformer",
-    "Feature-wise DR",
-    "Feature-only proc.",
-    "Hybrid row-column proc.",
-    "Flatten MLP"
+    "PCA + Transformer",
+    "MLP + Transformer",
+    "Flatten DR + MLP",
+    "Flatten Raw Data + MLP"
 ]
 
 plot_roc_auc_individual(models_paths, model_names)

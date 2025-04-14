@@ -1,0 +1,7 @@
+{
+    "metrics": {
+        "roc_auc": 0.76093,
+        "sensitivity": 0.662722,
+        "specificity": 0.726942
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "hyperparameters": {
+        "embedding_dim": 32,
+        "hidden_dim": 118,
+        "lr": 0.005259626993883385,
+        "num_heads": 2,
+        "num_layers": 3,
+        "dropout": 0.20422145399200523
+    },
+    "metrics": {
+        "accuracy": 0.7426900584795322,
+        "roc_auc": 0.8040123456790123,
+        "sensitivity": 0.5694444444444444,
+        "specificity": 0.8686868686868687
+    }
+}

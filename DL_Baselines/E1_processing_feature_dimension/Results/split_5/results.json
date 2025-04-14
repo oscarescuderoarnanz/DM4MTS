@@ -1,0 +1,26 @@
+{
+    "hyperparameters": {
+        "n_components": 30,
+        "hidden_size": 104,
+        "num_layers": 2,
+        "dropout": 0.3526422640831776,
+        "lr": 0.0004428043685166872
+    },
+    "metrics": {
+        "accuracy": 0.771399798590131,
+        "roc_auc": 0.7986751435027297,
+        "sensitivity": 0.7126436781609196,
+        "specificity": 0.7838827838827839
+    },
+    "best_trial": {
+        "number": 23,
+        "value": 0.5022951364517212,
+        "params": {
+            "n_components": 30,
+            "hidden_size": 104,
+            "num_layers": 2,
+            "dropout": 0.3526422640831776,
+            "lr": 0.0004428043685166872
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "hyperparameters": {
+        "hidden_dim": 193,
+        "lr": 0.0026116636515258786
+    },
+    "metrics": {
+        "accuracy": 0.7810650887573964,
+        "roc_auc": 0.8310451106752592,
+        "sensitivity": 0.7831325301204819,
+        "specificity": 0.7790697674418605
+    }
+}
